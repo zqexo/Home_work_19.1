@@ -13,4 +13,4 @@
    Выполните скрипт для запуска сервера:
 
    ```sh
-   python server.py
+   python app.py
